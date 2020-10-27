@@ -1,0 +1,7 @@
+//phpmyAdmin
+databse username: root
+pwd:blank
+
+//web app login 
+username: zawkhun@outlook.com
+pwd: admin123

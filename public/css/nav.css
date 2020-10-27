@@ -1,0 +1,15 @@
+.img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;    
+}
+.navbar-brand {      
+    margin-left: -20px;
+  }
+  
+@media screen and (max-width: 780px) {
+    .navbar-brand {      
+      display: none;
+    }
+}
+  
